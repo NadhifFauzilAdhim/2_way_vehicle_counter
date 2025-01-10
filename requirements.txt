@@ -1,0 +1,7 @@
+opencv
+streamlit
+ultralytics
+supervision
+numpy
+torch
+pandas  
